@@ -1,0 +1,144 @@
+.main-hero{
+    height: calc(100vh - 78px);
+    width: 100%;
+    background: url('../img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.bg-purple{
+    background: #660066;
+    background-color: #660066;
+}
+
+.black-line{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 2px;
+    background: #373A3C;
+    margin: auto;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    color: #660066;
+}
+
+.white-line{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 2px;
+    background: #ffffff;
+    margin: auto;
+}
+
+.logo-font{
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.nav-link{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.main-hero h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    font-weight:200;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.main-hero .white-line{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 2px;
+    background-color:#fff;
+}
+
+.main-hero h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    font-weight:bold;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.intro-text h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 1.8;
+    color: #373A3C;
+}
+
+
+
+.intro-text p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 2.5;
+    color: #373A3C;
+}
+
+.mi-experiencia h2{
+        font-family: 'Oswald', sans-serif;
+        font-size: 53px;
+        font-weight:bold;
+        color: #373A3C;
+        text-transform: uppercase;
+}
+
+.mi-experiencia i{
+    font-size: 150px;
+    color: #660066;
+}
+
+.mi-experiencia h3{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    font-weight:bold;
+    color: #373A3C;
+    text-transform: uppercase;
+}
+
+.mi-experiencia p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    color: #373A3C;
+}
+
+.ultimos-trabajos h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 53px;
+    font-weight:bold;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.contacto h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 53px;
+    font-weight:bold;
+    color: #373A3C;
+    text-transform: uppercase;
+}
+
+footer i{
+    color: #ffffff;
+    font-size: 50px;
+    margin-right: 5px;
+}
